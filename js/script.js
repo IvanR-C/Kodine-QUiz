@@ -135,6 +135,5 @@ function showResultBox(){
   scoreText.innerHTML =scoreTag;
 }
 
-
  answerHeaderTag = '<div class="correctOnes">Correct Answers:<p>'+ userScore +'</p>/<p>'+ answeredQuestions +'</p></div>';
  answerHeader.innerHTML = answerHeaderTag;
